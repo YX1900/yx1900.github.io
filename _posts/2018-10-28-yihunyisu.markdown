@@ -8,7 +8,7 @@ tags: [Blog,Mby, Music]
 author: 张亚旭 # Add name author (optional)
 ---
 <!-- JS格式化Thu May 12 2017 08:00:00 GMT+0800 (中国标准时间) -->
-<style type="text/css">h2{text-align: center;} center,h2{font-style: italic}</style>
+<style type="text/css">h2{text-align: center;}center,h2{font-style: italic}#play{text-decoration: none;float:right;}</style>
 <h2>毛不易</h2>
 <center>日出有日落</center>
 <center>深处再深处</center>
@@ -46,3 +46,4 @@ author: 张亚旭 # Add name author (optional)
 <center>知道我睡得轻</center>
 <center>一定是你来时太小心</center>
 <center>怕我再想起你</center>
+<a id="play" href="https://music.163.com/#/mv?id=10818030">≧▽≦点我聆听音乐！！</a>
