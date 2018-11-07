@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 栄の活躍 （荣的活跃）
-date: 2018-10-28 10:40:20 +0800
+title: 颜色
+date: 2018-11-07 10:40:20 +0800
 description: 时间流逝，洪水猛兽
-img: post-8.jpg # Add image post (optional)
-tags: [Blog,mood]
+img: post-9.jpg # Add image post (optional)
+tags: [Blog,Color]
 author: 张亚旭 # Add name author (optional)
 ---
 <style type="text/css">
