@@ -1,21 +1,21 @@
 title: My personal blog - 张亚旭
-email: zinnir7@gmail.com
+email: yx1900@outlook.com
 description: 机器学习、网络爬虫、数据处理、数据分析、前端与设计 | 张亚旭 | 这里是 @Zyx 张亚旭的个人博客，与你一起发现更大的世界.
 permalink: ':title/'
 # baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Yaxu Zhang # add your name
+author: Zhang Yaxu # add your name
 author-pic: adam-face.jpg
 # about-author: My name is Yaxu Zhang. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
 about-author: Time lapse, flood beast.In the face of uncontrollable, recognize your incompetence, then go to life seriously.
 # Contact links
-email: zinnir7@gmail.com# Add your Email address
+email: yx1900@outlook.com # Add your Email address
 phone: # Add your Phone number
-website: zinnir.github.io# Add your website, do not add http://
+website: yx1900.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: Zinnir # Add your Github handle
+github: Jerry # Add your Github handle
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
